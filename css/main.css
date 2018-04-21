@@ -1,0 +1,9 @@
+body {
+	background-color: grey;
+}
+.category-wrapper {
+	width: 100%;
+	height: 20vh;
+	background-color: white;
+	border: solid 1px;
+}
